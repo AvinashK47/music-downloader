@@ -102,7 +102,7 @@ Before running the script, make sure you have the following installed:
    Once the setup is complete, you can run the script directly from your terminal:
 
    ```bash
-   python main.py
+   python final.py
    ```
 
 2. **Select an Option**:  
@@ -134,7 +134,7 @@ Here are some ideas for contributing:
 2. Clone your fork:
    
    ```bash
-   git clone https://github.com/your-username/song-downloader.git
+   git clone https://github.com/AvinashK47/music-downloader
    ```
 
 3. Create a new branch for your changes:

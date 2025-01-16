@@ -177,7 +177,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## **At Last**
 
 Feel free to contribute to this project! Whether you're adding features, fixing bugs, or improving the documentation, your help is appreciated. Let’s make this tool better for everyone!
-
----
-
-This README covers setup, installation, usage, and contributions, and includes instructions for both Arch Linux and other systems. You can tweak it as needed for your specific setup or repository.
